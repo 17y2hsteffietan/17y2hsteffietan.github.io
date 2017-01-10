@@ -1,8 +1,22 @@
 h1{
-  color: 	#00ffbf;
+  text-align: center;
+  color: 		#0080ff;
   font-family: "Georgia";
 }
 
+h2{
+  text-align: center;
+  color: #00bfff;
+  font-family: "Georgia"; 
+} 
+
+p{
+  text-align: center;
+  font-family: "Georgia";
+}
+
+
+  
 
 
   
